@@ -54,7 +54,7 @@ int main()
 
 
 cout<<"\tProgram Developed by :-";
-cout<<"\tYUVRAJ PATEL\n";
+cout<<"\tKeyur Lad\n";
 
 
 patient obj;
